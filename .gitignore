@@ -1,0 +1,23 @@
+# Dependencias instaladas localmente
+node_modules/
+
+# Archivos generados automáticamente
+package-lock.json
+.env
+
+# Archivos o directorios específicos
+/config/config.json
+
+# Logs y archivos temporales
+logs/
+*.log
+*.tmp
+
+# Archivos de desarrollo o editoriales
+.vscode/
+.idea/
+.DS_Store
+
+# Archivos de build o compilados
+/build/
+/dist/
